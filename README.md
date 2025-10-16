@@ -1,9 +1,11 @@
 # Munch-App
 
 📋 Overview
+
 An innovative web application developed for the Munch Museum in Oslo to engage younger audiences (18-25 years) with art through modern technology. The application combines AI-powered interactive storytelling with traditional museum features to create personalized, shareable art experiences.
 
 🎯 Project Goals
+
 Primary Objectives
 
 Increase young visitor engagement at Munch Museum
